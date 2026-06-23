@@ -84,7 +84,7 @@ https://huggingface.co/spaces/Omkar897/Rag-Chatbot
 ## 📸 Screenshot
 
 _![Screenshot](Screenshot_2026-06-23-10-49-23-39_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)_
-
+_![Screenshot](Screenshot_2026-06-23-10-50-46-59_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)_
 ---
 
 ## 📌 Future Improvements
